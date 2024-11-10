@@ -6,7 +6,7 @@ I am a current PhD student in PDEs at UC Berkeley working under Daniel Tataru. I
 
 # CV
 
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+<object data="http://ryanmart00.github.io/cv.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://ryanmart00.github.io/cv.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://ryanmart00.github.io/cv.pdf">Download PDF</a>.</p>
     </embed>
