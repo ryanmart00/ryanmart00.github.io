@@ -127,11 +127,4 @@ Sam Nelson, Claremont McKenna College, Professor of Mathematics
 
 
 # CV
-<embed src="http://ryanmart00.github.io/cv.pdf" width="500" height="375" 
- type="application/pdf">
- 
-<object data="http://ryanmart00.github.io/cv.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://ryanmart00.github.io/cv.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://ryanmart00.github.io/cv.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+[link to pdf](https://github.com/ryanmart00/ryanmart00.github.io/blob/main/CV.pdf)
