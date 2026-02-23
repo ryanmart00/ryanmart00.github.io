@@ -50,7 +50,7 @@ https://github.com/ryanmart00/BlackHole
 
 A simulation of the geodesics of the Schwartzschild spacetime. Here is a gif
 
-<p style="text-align: center;"><img src="https://github.com/ryanmart00/BlackHole/blob/main/builds/Black_Hole_Clip.gif" width="400"></p>
+![Simulation of a Schwartzschild black hole]("https://github.com/ryanmart00/BlackHole/blob/main/builds/Black_Hole_Clip.gif")
 
 This still needs some work (light travels "instantly" to see the curvature instead of flowing along the manifold along null geodesics)
 
