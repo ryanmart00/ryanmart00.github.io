@@ -30,12 +30,12 @@ For the completely integrable problem, access to conserved quantities has made t
 The main challenge of this work is that the modified energy method used by Ifrim and Tataru at $L^2$ fails at high frequency below $s = -1/3$. To overcome this we use an infinite series of corrections.
 
 ## Harmonic Analysis and Differential Equations Seminar (UC Berkeley), Fall 2024
-	“Normal Forms, the Modified Energy Method, and an Extension,” Spring 2025
+	“Normal Forms, the Modified Energy Method, and an Extension,” 
 Abstract: The method of normal forms was introduced to PDEs by Shatah, who used it to study the long time behavior of semilinear Klein Gordon equations and the method has been widely used in the context of semilinear problems. The modified energy method of Hunter, Ifrim, Tataru, and Wong extends the idea of normal forms to quasilinear problems. 
 In this talk, we will discuss the method of normal forms, the related method of modified energy, and my recent work which extends these in a novel way. The aim is to give a selection of nonlinear PDEs which demonstrate in detail how these methods are used, why they work, and what gains they achieve.
 
 ## Erwin Schrödinger International Institute (University of Vienna), Summer 2024
-“The Modified Energy Method for a Nonlocal Quasilinear Wave Equation”
+	“The Modified Energy Method for a Nonlocal Quasilinear Wave Equation”
 Abstract: In this talk I will focus on how the Modified Energy Method of Hunter-Ifrim-Tataru-Wong can be applied in situations where it is unclear what normal form transformation to use. We will use a nonlocal, quasilinear wave equation of Kirchhoff type, which I and Tataru have been working on to illustrate the method. In this problem the gain is an enhanced cubic lifespan for small initial data in. Previously smallness was only guaranteed on a quadratic time scale and depended on the initial data in.
 
 ## Harmonic Analysis and Differential Equations Seminar (UC Berkeley), Fall 2023
@@ -54,6 +54,76 @@ A simulation of the geodesics of the Schwartzschild spacetime. Here is a gif
 
 This still needs some work (light travels "instantly" to see the curvature instead of flowing along the manifold along null geodesics)
 
+# Teaching/Mentoring
+Multivariable Calculus Graduate Student Instructor (Math 53, Berkeley) - involves running discussion/recitation sessions
+under Prof. James Sethian Fall 2022 
+under Prof. Maciej Zworski Fall 2023 
+under Prof. Sunica Canic Spring 2024
+under Prof. James Sethian Fall 2024
+under Prof. Emiliano Gomez Spring 2025
+
+Honors Multivariable Calculus Graduate Student Instructor (Math H53, Berkeley), 
+under Prof. Edward Frenkel Spring 2023
+under Prof. Michael Hutchings Fall 2025
+
+Directed Reading Program - a program that pairs undergraduates with graduate student mentors to get personal mentorship on advanced topics of the undergraduate’s choosing
+	on Dynamical Systems, Fall 2023
+	on deRham Cohomology, Spring 2024
+on Quantum Computation, Fall 2024
+on Dynamical Systems, Spring 2025  
+on Numerical PDEs, Fall 2025
+
+UC Berkeley Fall 2024 Teaching Conference, quantitative discipline cluster leader - A three hour online teaching seminar to give confidence and pedagogical advice to new student instructors.
+
+
+
+# Proficient Languages 
+
+## Programming Languages
+C++: Data structures class (Harvey Mudd CS 70; A)
+Projects: https://github.com/ryanmart00/Hellscape is a work in progress video-game with a working 3D game engine built on Bullet and OpenGL; https://github.com/ryanmart00/BlackHole is a simulation of what geodesics look like in the  Schwartzschild metric.
+
+Python: Intro programming class (Harvey Mudd CS 42; Pass)
+	Projects: https://github.com/ryanmart00/ToricVarietyCodes is some code to do some abstract algebra over finite fields for some computations for work related to my work with Dolorfino, Horch, and Jabbusch.
+
+Julia: Graduate Numerical Partial Differential Equations (UC Berkeley Math 228B; A-)
+	Worked problems: https://github.com/ryanmart00/PDENumerics 
+
+C: Computer systems class (Harvey Mudd CS 105: A)
+	
+Prolog: Computability and logic class (Harvey Mudd CS 81: A)
+
+Java: Old experience from high school
+
+Haskell: Less experience, completed the first 30 or so of the 99 Lisp problems for Haskell
+
+## Human Languages
+English (Native)
+
+普通话 (4 years of official study)
+
+
+# References
+
+Daniel Tataru, University of California Berkeley, Professor of Mathematics
+	tataru@math.berkeley.edu 
+	Relation: PhD Advisor
+
+Mihaela Ifrim, University of Wisconsin, Madison, Professor of Mathematics
+	ifrim@wisc.edu 
+	Relation: Collaborator
+
+Sung-jin Oh, University of California Berkeley, Professor of Mathematics
+	sjoh@math.berkeley.edu 
+	Relation: Instructor
+
+Kelly Jabbusch, University of Michigan Dearborn, Associate Professor of Mathematics
+	jabbusch@umich.edu 
+	Relation: Research Supervisor
+
+Sam Nelson, Claremont McKenna College, Professor of Mathematics
+	snelson@cmc.edu 
+	Relation: Instructor and Undergraduate Thesis Supervisor
 
 
 # CV
