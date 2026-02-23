@@ -1,4 +1,4 @@
-!(ryan_martinez_face.jpg)
+![Picture of my face](ryan_martinez_face.jpg)
 
 # About me
 
