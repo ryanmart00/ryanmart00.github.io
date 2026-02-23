@@ -46,11 +46,11 @@ Abstract: We give an exposition of the Hadamard wellposedness and explain the mo
 # Projects
 
 ## Black hole project
-https://github.com/ryanmart00/BlackHole
+[https://github.com/ryanmart00/BlackHole](https://github.com/ryanmart00/BlackHole)
 
 A simulation of the geodesics of the Schwartzschild spacetime. Here is a gif
 
-![Simulation of a Schwartzschild black hole]("https://github.com/ryanmart00/BlackHole/blob/main/builds/Black_Hole_Clip.gif")
+![Simulation of a Schwartzschild black hole]("https://github.com/ryanmart00/BlackHole/blob/db91b628c9de268bdf5951f192dbb589b1f5579a/builds/Black_Hole_Clip.gif")
 
 This still needs some work (light travels "instantly" to see the curvature instead of flowing along the manifold along null geodesics)
 
