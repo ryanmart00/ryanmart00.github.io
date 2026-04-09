@@ -1,5 +1,7 @@
 ![Picture of my face](ryan_martinez_face.jpg)
 
+ryan_martinez@berkeley.edu
+
 # About me
 
 I am a current PhD student in PDEs at UC Berkeley working under Daniel Tataru. I completed my BS at Harvey Mudd College in Math. My interests are in Dispersive PDEs, Harmonic Analysis, Numerical Methods, and Music (music is mostly separately but not always!)
