@@ -9,8 +9,7 @@ I am a current PhD student in PDEs at UC Berkeley working under Daniel Tataru. I
 # Publications
 
 "Global solutions for 1D cubic defocusing dispersive
-equations, Part V: low regularity NLS." with Mihaela Ifrim and Daniel Tataru. 2026. [arXiv: 2608.17156](https://arxiv.
-org/abs/2608.17156)
+equations, Part V: low regularity NLS." with Mihaela Ifrim and Daniel Tataru. 2026. [arXiv: 2608.17156](https://arxiv.org/abs/2608.17156)
 
 “The modified energy method for quasilinear wave equations of Kirchhoff type”.
 In: Transactions of the American Mathematical Society, Series B 13 (June 2026), pp. 301–338. doi:
