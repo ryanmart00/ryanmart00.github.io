@@ -8,8 +8,13 @@ I am a current PhD student in PDEs at UC Berkeley working under Daniel Tataru. I
 
 # Publications
 
-"The Modified Energy Method for Quasilinear Wave Equations of Kirchhoff Type." arXiv 
-preprint [arXiv:2501.06384](https://arxiv.org/abs/2501.06384) (2025), accepted for publication in Transactions of the American Mathematical Society, Series B
+"Global solutions for 1D cubic defocusing dispersive
+equations, Part V: low regularity NLS." with Mihaela Ifrim and Daniel Tataru. 2026. [arXiv: 2608.17156](https://arxiv.
+org/abs/2608.17156)
+
+“The modified energy method for quasilinear wave equations of Kirchhoff type”.
+In: Transactions of the American Mathematical Society, Series B 13 (June 2026), pp. 301–338. doi:
+10.1090/btran/240. arXiv preprint [arXiv:2501.06384](https://arxiv.org/abs/2501.06384)
 
 “On Good Infinite Families of Toric Codes or the Lack Thereof,”  with Mallory Dolorfino, 
 Cordelia Horch, and Kelly Jabbusch (U. Michigan Dearborn) , published in INVOLVE [https://doi.org/10.2140/involve.2024.17.397](https://doi.org/10.2140/involve.2024.17.397)
@@ -19,7 +24,19 @@ https://scholarship.claremont.edu/hmc_theses/260
 
 # Current Research
 
-My research is in low regularity nonlinear dispersive partial differential equations. In my recent work “The Modified Energy Method for Quasilinear Wave Equations of Kirchhoff Type,” I used a novel extension of the Modified Energy Method of Hunter, Ifrim, Tataru and Wong involving infinite order corrections to the linear energy of the system. This extension seems to arise as a necessary solution strategy to understanding long time behavior of nonlinear dispersive equations specifically at low regularity where high frequency data is non-perturbative. Currently, I am working on using this method to prove that up to the critical regularity (the lowest regularity where the problem is well-posed) 1D defocusing cubic nonlinear Schrödinger equation exhibits global existence (which is only known in special “completely integrable” cases) and dispersion (which is still unknown at low regularity). More info on this is in the abstract of my recent talk on progress in this direction at UW Madison.
+My research is in global dynamics of non-integrable dispersive partial differential equations especially at low regularity. We study the problem at low regularity and without 
+complete integrability because it clarifies which assumptions are conveniences 
+and which fundamentally change the behaviors
+of solutions. For low regularity, nonlinear problems often have a natural 
+lowest feasible regularity (which we will call the critical regularity), 
+where scaling heuristics inform us that solutions below this regularity 
+are not well behaved enough to make sense of in general, but in many cases, as we
+will see, we do not have a satisfying theory near this regularity.
+For integrability, it is clear that certain algebraic properties, like elastic 
+soliton collisions, will not be preserved, while the question is 
+largely open for more analytic properties such as global existence, solution stability,
+and scattering.
+
 
 
 # Talks
